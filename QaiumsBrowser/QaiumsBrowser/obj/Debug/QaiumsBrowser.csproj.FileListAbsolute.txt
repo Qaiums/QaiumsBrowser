@@ -1,0 +1,10 @@
+c:\users\qaium\documents\visual studio 2012\Projects\QaiumsBrowser\QaiumsBrowser\bin\Debug\QaiumsBrowser.exe.config
+c:\users\qaium\documents\visual studio 2012\Projects\QaiumsBrowser\QaiumsBrowser\bin\Debug\QaiumsBrowser.exe
+c:\users\qaium\documents\visual studio 2012\Projects\QaiumsBrowser\QaiumsBrowser\bin\Debug\QaiumsBrowser.pdb
+c:\users\qaium\documents\visual studio 2012\Projects\QaiumsBrowser\QaiumsBrowser\obj\Debug\QaiumsBrowser.Properties.Resources.resources
+c:\users\qaium\documents\visual studio 2012\Projects\QaiumsBrowser\QaiumsBrowser\obj\Debug\QaiumsBrowser.csproj.GenerateResource.Cache
+c:\users\qaium\documents\visual studio 2012\Projects\QaiumsBrowser\QaiumsBrowser\obj\Debug\QaiumsBrowser.exe
+c:\users\qaium\documents\visual studio 2012\Projects\QaiumsBrowser\QaiumsBrowser\obj\Debug\QaiumsBrowser.pdb
+c:\users\qaium\documents\visual studio 2012\Projects\QaiumsBrowser\QaiumsBrowser\obj\Debug\QaiumsBrowser.QaiumsBrowser.resources
+C:\Users\qaium\documents\visual studio 2012\Projects\QaiumsBrowser\QaiumsBrowser\obj\Debug\QaiumsBrowser.csprojResolveAssemblyReference.cache
+C:\Users\qaium\documents\visual studio 2012\Projects\QaiumsBrowser\QaiumsBrowser\obj\Debug\QaiumsBrowser.SportsNews.resources
